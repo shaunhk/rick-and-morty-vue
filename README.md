@@ -1,4 +1,4 @@
-# stock_tracker
+# rick_morty
 
 ## Project setup
 ```
